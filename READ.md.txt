@@ -1,0 +1,139 @@
+# 🍔 Online Food Delivery Analysis Dashboard
+
+## 📌 Project Overview
+
+This project analyzes online food delivery data to uncover insights related to customer behavior, restaurant performance, payment preferences, delivery efficiency, and revenue trends. The analysis is performed using Python, SQL, Power BI, and Streamlit.
+
+---
+
+## 🎯 Objectives
+
+* Analyze food delivery orders and revenue trends.
+* Identify top-performing restaurants.
+* Understand customer payment preferences.
+* Analyze order distribution across cities.
+* Build an interactive dashboard for business insights.
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQL
+* Power BI
+* Streamlit
+* VS Code
+
+---
+
+## 📂 Project Structure
+
+```text
+Online_Food_Delivery_Project/
+│
+├── dataset/
+│   ├── ONINE_FOOD_DELIVERY_ANALYSIS.CSV
+│   └── cleaned_food_delivery.csv
+│
+├── notebooks/
+│   └── food_delivery_analysis.ipynb
+│
+├── outputs/
+├── screenshots/
+├── sql/
+├── power Bi/
+│
+├── app.py
+└── README.md
+```
+
+---
+
+## 📊 Key Analysis Performed
+
+### Customer Analysis
+
+* Customer demographics analysis
+* Order frequency analysis
+
+### Restaurant Analysis
+
+* Top restaurants by number of orders
+* Restaurant rating analysis
+
+### Revenue Analysis
+
+* Total revenue generated
+* Average order value
+
+### Payment Analysis
+
+* Payment mode distribution
+* Popular payment methods
+
+### City Analysis
+
+* Orders by city
+* Delivery performance across locations
+
+---
+
+## 📈 Dashboard Features
+
+* Dataset Preview
+* Total Orders
+* Total Revenue
+* Average Order Value
+* Top Restaurants Visualization
+* Payment Mode Distribution
+* Orders by City Analysis
+
+---
+
+## 🚀 How to Run the Project
+
+### 1. Install Required Libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn streamlit
+```
+
+### 2. Run the Streamlit Dashboard
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📸 Dashboard Preview
+
+Add dashboard screenshots from the `screenshots` folder.
+
+---
+
+## 📊 Results
+
+* Analyzed 100,000 food delivery orders.
+* Identified revenue and customer trends.
+* Analyzed restaurant and city performance.
+* Built an interactive Streamlit dashboard for visualization.
+
+---
+
+## 👤 Author
+
+**Priya Mahendran**
+
+---
+
+## ⭐ Future Enhancements
+
+* Advanced Power BI Dashboard
+* Customer Segmentation
+* Delivery Time Prediction
+* Revenue Forecasting
